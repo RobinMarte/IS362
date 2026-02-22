@@ -1,0 +1,21 @@
+Airline,Destination,Status,Flights
+Alaska,Los Angeles,On Time,497.00
+Alaska,Los Angeles,Delayed,62.00
+Alaska,Phoenix,On Time,221.00
+Alaska,Phoenix,Delayed,12.00
+Alaska,San Diego,On Time,212.00
+Alaska,San Diego,Delayed,20.00
+Alaska,San Francisco,On Time,503.00
+Alaska,San Francisco,Delayed,102.00
+Alaska,Seattle,On Time,1841.00
+Alaska,Seattle,Delayed,305.00
+AM West,Los Angeles,On Time,694.00
+AM West,Los Angeles,Delayed,117.00
+AM West,Phoenix,On Time,4840.00
+AM West,Phoenix,Delayed,415.00
+AM West,San Diego,On Time,383.00
+AM West,San Diego,Delayed,65.00
+AM West,San Francisco,On Time,320.00
+AM West,San Francisco,Delayed,129.00
+AM West,Seattle,On Time,201.00
+AM West,Seattle,Delayed,61.00
